@@ -18,4 +18,3 @@
 
 - 🔭 I’m building Expedia Group's Stream Platform
 - 🌱 I’m working with **Kafka**, **Kotlin**, **Ranger**, and **Avro** on my current mission
-- ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
