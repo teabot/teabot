@@ -19,6 +19,10 @@
 - 🏗 I’m building Expedia Group's Stream Platform
 - 🛠 I’m working with **Kafka**, **Kotlin**, **Ranger**, and **Avro** on my current mission
 
-### Other open-source activity
+### Other activity
+* [Blog posts on Medium](https://medium.com/@teabot)
 * [Apache JIRA contributions](https://issues.apache.org/jira/browse/KAFKA-13293?jql=project%20in%20(KAFKA%2C%20AVRO%2C%20HIVE)%20AND%20reporter%20in%20(teabot))
 * [Apache Confluence contrubtions](https://cwiki.apache.org/confluence/display/~teabot)
+* Talks:
+  * [Mutant Tests Too: The SQL](https://www.youtube.com/watch?v=PchdF0xAbEg)
+  * [Tools and approaches for migrating big datasets to the cloud](https://youtu.be/MfvjmMjhKG4)
