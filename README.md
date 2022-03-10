@@ -16,7 +16,7 @@
 
 ### I'm Elliot West!
 - ⭐️ I've recently joined [Wayfair](https://wayfair.github.io)
-- 🏗 I was previously building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform, working with **Kafka**, **Kotlin**, **Ranger**, and **Avro** on my current mission
+- 🏗 I was previously building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform, working with **Kafka**, **Kotlin**, **Ranger**, and **Avro**
 
 ### Other activity
 * [Blog posts on Medium](https://medium.com/@teabot)
