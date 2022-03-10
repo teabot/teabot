@@ -16,7 +16,7 @@
 
 ### I'm Elliot West!
 
-- 🏗 I’m building Expedia Group's Stream Platform
+- 🏗 I’m building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform
 - 🛠 I’m working with **Kafka**, **Kotlin**, **Ranger**, and **Avro** on my current mission
 
 ### Other activity
