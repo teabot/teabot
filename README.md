@@ -15,7 +15,7 @@
 <br />
 
 ### I'm Elliot West!
-- ⭐️ I've recently joined [Wayfair](https://wayfair.github.io)
+- ⭐️ I've recently joined [StreamNative](https://github.com/streamnative), working with [Apache Pulsar](https://github.com/apache/pulsar)
 - 🏗 I was previously building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform, working with **Kafka**, **Kotlin**, **Ranger**, and **Avro**
 
 ### Other activity
