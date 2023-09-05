@@ -16,8 +16,8 @@
 
 ### I'm Elliot West!
 - ⭐️ I've recently joined [Dremio](https://github.com/dremio), working with their cloud offering.
-- Previously I was working with [StreamNative](https://github.com/dremio) on [Apache Pulsar](https://github.com/apache/pulsar) and [Oxia](https://github.com/streamnative/oxia) projects.
-- 🏗 Priot to that I was building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform, working with **Kafka**, **Kotlin**, **Ranger**, and **Avro**
+- 🌊 Previously I was working with [StreamNative](https://github.com/dremio) on [Apache Pulsar](https://github.com/apache/pulsar) and [Oxia](https://github.com/streamnative/oxia) projects.
+- ✈️ Prior to that I was building [Expedia Group's](https://opensource.expediagroup.com) Stream Platform, working with **Kafka**, **Kotlin**, **Ranger**, and **Avro**
 
 ### Other activity
 * [Blog posts on Medium](https://medium.com/@teabot)
